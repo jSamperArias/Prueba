@@ -1,0 +1,5 @@
+Encabezado con 4 opciones y color azul
+
+Cuerpo con noticia de deportes
+
+Pie de página
