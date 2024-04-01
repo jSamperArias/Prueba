@@ -1,4 +1,4 @@
-Encabezado con 4 opciones y color verde oscuro
+Encabezado con 4 opciones y color azul marino
 
 Cuerpo con noticia de deportes
 
