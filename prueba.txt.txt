@@ -1,8 +1,8 @@
-Encabezado con 4 opciones y color verde oscuro
+Encabezado con 5 opciones y color verde oscuro
 
 Cuerpo con noticia de deportes
 
-Cuerpo con noticia de economia
+Cuerpo con noticia de ciencia
 
 Pie de página
 Enlace a redes sociales
