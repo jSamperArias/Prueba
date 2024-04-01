@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 Encabezado con 4 opciones y color azul marino
+=======
+Encabezado con 5 opciones y color verde oscuro
+>>>>>>> eec1a8ded435b3c0ca4d154d851094e9db4c0e34
 
 Cuerpo con noticia de deportes
 
-Cuerpo con noticia de economia
 
-Pie de página
-Enlace a redes sociales
