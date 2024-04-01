@@ -1,5 +1,7 @@
-Encabezado con 4 opciones y color azul
+Encabezado con 4 opciones y color verde oscuro
 
 Cuerpo con noticia de deportes
+
+Cuerpo con noticia de economia
 
 Pie de página
